@@ -32,7 +32,7 @@ Siga os passos abaixo para configurar e executar o projeto localmente.
 Clone o repositório do projeto para o seu ambiente local:
 
 ```bash
-git clone https://github.com/seu-usuario/libri-flow.git
+git clone https://github.com/fakedamage/libri-flow.git
 cd libri-flow
 ```
 
