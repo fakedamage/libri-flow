@@ -67,7 +67,7 @@ php artisan key:generate
 Execute as migrações para criar as tabelas no banco de dados e popular com dados iniciais (se necessário):
 
 ```bash
-php artisan migrate --seed
+php artisan migrate
 ```
 
 ### 3. Instalar dependências do Node.js
@@ -85,7 +85,7 @@ npm install
 Execute o servidor de desenvolvimento do Laravel:
 
 ```bash
-php artisan serve
+npm run dev
 ```
 
 O servidor estará disponível em: http:/localhost:8000.
