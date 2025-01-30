@@ -6,6 +6,7 @@ O **Libri Flow** é um sistema de gestão de biblioteca online desenvolvido com 
 -   **Frontend**: Vue 3
 -   **Banco de Dados**: MySQL
 -   **Node.js**: 20 (para gerenciamento de dependências e build do frontend)
+-   Utilizando conceitos de **SOLID** & **Design Patterns**:
 
 Este projeto permite gerenciar livros, usuários, empréstimos e devoluções de forma eficiente e intuitiva.
 
